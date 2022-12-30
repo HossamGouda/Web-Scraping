@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Python310\\Lib\\site-packages"
+    ],
+    "activestate.promptRuntimeCreation": false
+}
